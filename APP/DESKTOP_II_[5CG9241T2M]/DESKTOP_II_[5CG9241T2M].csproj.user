@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Add New Quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form Create Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form Penilaian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz Code Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quizz Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Main Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View Quiz Report Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
